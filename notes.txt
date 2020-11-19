@@ -1,0 +1,3 @@
+login: add facebook, google login
+ui:  fix footer on the bottom
+my books page: interchange update/add report button, add rating
